@@ -62,15 +62,15 @@ nav ul {
 float:right;
 }
 
-.contact-btn a {
+.contact-btn  {
   margin-right: 30px;
   padding: 8px 18px;
-  border: 1px solid #204156;
+  
   
 
 }
 
-.contact-btn a:active {
+.contact-btn :active {
   position: relative;
   bottom: 2px;
   
