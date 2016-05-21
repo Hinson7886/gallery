@@ -15,6 +15,26 @@ body {
   margin: 0;
 }
 
+.main-navigation{
+  /*position: absolute;*/
+  top: 20px;
+  margin-left: 80px;
+}
+
+.main-navigation li{
+  list-style: none;
+  display: inline;
+  margin-right: 15px;
+  
+}
+
+.main-navigation a{
+  color: black;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 23px;
+}
+
 .page-title {
   text-align: center;
   font-weight: 100;
@@ -59,7 +79,7 @@ nav ul {
 }
 
 .contact-btn {
-float:right;
+  float:right;
 }
 
 .contact-btn  {
